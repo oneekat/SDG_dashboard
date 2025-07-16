@@ -1,0 +1,3129 @@
+{
+  "metadata": {
+    "total_sdgs": 17,
+    "generated_at": "2025-07-12 12:19:38",
+    "format": "structured",
+    "source": "OpenAI API"
+  },
+  "sdgs": [
+    {
+      "sdg_number": 1,
+      "sdg_name": "No Poverty",
+      "data": {
+        "targets": [
+          {
+            "target_number": "1.1",
+            "description": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $2.15 a day.",
+            "key_indicators": [
+              "1.1.1: Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)"
+            ]
+          },
+          {
+            "target_number": "1.2",
+            "description": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions.",
+            "key_indicators": [
+              "1.2.1: Proportion of population living below the national poverty line, by sex and age",
+              "1.2.2: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+            ]
+          },
+          {
+            "target_number": "1.3",
+            "description": "Implement nationally appropriate social protection systems and measures for all, including floors, and achieve substantial coverage of the poor and the vulnerable by 2030.",
+            "key_indicators": [
+              "1.3.1: Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+            ]
+          },
+          {
+            "target_number": "1.4",
+            "description": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.",
+            "key_indicators": [
+              "1.4.1: Proportion of population living in households with access to basic services",
+              "1.4.2: Proportion of total adult population with secure tenure rights to land, with legally recognized documentation and who perceive their rights to land as secure, by sex and by type of tenure"
+            ]
+          },
+          {
+            "target_number": "1.5",
+            "description": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters.",
+            "key_indicators": [
+              "1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+              "1.5.2: Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
+              "1.5.3: Number of countries with national and local disaster risk reduction strategies"
+            ]
+          },
+          {
+            "target_number": "1.a",
+            "description": "Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to end poverty in all its dimensions.",
+            "key_indicators": [
+              "1.a.1: Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes",
+              "1.a.2: Proportion of total government spending on essential services (education, health and social protection)"
+            ]
+          },
+          {
+            "target_number": "1.b",
+            "description": "Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions.",
+            "key_indicators": [
+              "1.b.1: Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Approximately 75% of countries are off track",
+          "regions_on_track": [
+            "East Asia",
+            "Europe"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "South Asia",
+            "Latin America and the Caribbean"
+          ],
+          "key_statistics": [
+            "In 2022, an estimated 8.4% of the world population lived in extreme poverty, up from 8.3% in 2019 due to the COVID-19 pandemic and global crises.",
+            "Sub-Saharan Africa accounts for about 60% of the world’s extreme poor.",
+            "Children are disproportionately affected: more than 1 in 5 children live in extreme poverty globally.",
+            "Social protection coverage for vulnerable groups remains low, with only 47% of the global population covered by at least one social protection benefit."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Economic shocks, conflict, and climate change are reversing decades of progress in poverty reduction.",
+            "impact": "Millions have fallen back into extreme poverty, especially in fragile and conflict-affected regions.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia",
+              "Middle East and North Africa"
+            ]
+          },
+          {
+            "challenge": "Limited access to social protection systems for the most vulnerable populations.",
+            "impact": "Increased vulnerability to economic downturns, disasters, and health crises.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia"
+            ]
+          },
+          {
+            "challenge": "Rising food and energy prices due to global crises.",
+            "impact": "Reduced purchasing power and increased poverty rates among low-income households.",
+            "affected_regions": [
+              "Latin America and the Caribbean",
+              "Sub-Saharan Africa",
+              "South Asia"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "China",
+            "initiative": "Targeted poverty alleviation programs including rural infrastructure investment, social protection expansion, and microfinance.",
+            "impact": "Lifted over 800 million people out of extreme poverty between 1990 and 2020.",
+            "year": "2020"
+          },
+          {
+            "country": "Brazil",
+            "initiative": "Bolsa Família conditional cash transfer program providing financial aid to low-income families contingent on school attendance and health check-ups.",
+            "impact": "Reduced extreme poverty by more than 50% and improved health and education outcomes.",
+            "year": "2019"
+          },
+          {
+            "country": "Ethiopia",
+            "initiative": "Productive Safety Net Programme (PSNP) offering cash or food transfers to food-insecure households in exchange for participation in public works.",
+            "impact": "Helped millions avoid hunger and build resilience to shocks.",
+            "year": "2023"
+          }
+        ],
+        "priority_actions": [
+          "Expand and strengthen social protection systems, especially for the most vulnerable populations.",
+          "Promote inclusive economic growth and job creation, particularly in rural and marginalized areas.",
+          "Increase investment in education, health, and basic services to break the cycle of poverty.",
+          "Enhance resilience to shocks, including climate-related disasters and economic crises.",
+          "Foster gender equality and empower women and girls as key agents of poverty reduction.",
+          "Mobilize additional resources and strengthen international cooperation for poverty eradication."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 2: Zero Hunger",
+            "relationship": "Poverty and hunger are closely linked; eradicating poverty helps reduce food insecurity and malnutrition."
+          },
+          {
+            "related_sdg": "SDG 3: Good Health and Well-being",
+            "relationship": "Poverty limits access to healthcare, increasing vulnerability to disease and reducing life expectancy."
+          },
+          {
+            "related_sdg": "SDG 4: Quality Education",
+            "relationship": "Education is a key pathway out of poverty, enabling better employment and income opportunities."
+          },
+          {
+            "related_sdg": "SDG 5: Gender Equality",
+            "relationship": "Women and girls are disproportionately affected by poverty; gender equality accelerates poverty reduction."
+          },
+          {
+            "related_sdg": "SDG 8: Decent Work and Economic Growth",
+            "relationship": "Inclusive economic growth and decent work opportunities are essential for sustainable poverty reduction."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:14:12"
+    },
+    {
+      "sdg_number": 2,
+      "sdg_name": "Zero Hunger",
+      "data": {
+        "targets": [
+          {
+            "target_number": "2.1",
+            "description": "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round.",
+            "key_indicators": [
+              "2.1.1 Prevalence of undernourishment",
+              "2.1.2 Prevalence of moderate or severe food insecurity in the population"
+            ]
+          },
+          {
+            "target_number": "2.2",
+            "description": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons.",
+            "key_indicators": [
+              "2.2.1 Prevalence of stunting among children under 5 years of age",
+              "2.2.2 Prevalence of malnutrition (weight for height, height for age, weight for age)"
+            ]
+          },
+          {
+            "target_number": "2.3",
+            "description": "By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, Indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment.",
+            "key_indicators": [
+              "2.3.1 Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
+              "2.3.2 Average income of small-scale food producers"
+            ]
+          },
+          {
+            "target_number": "2.4",
+            "description": "By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality.",
+            "key_indicators": [
+              "2.4.1 Proportion of agricultural area under productive and sustainable agriculture"
+            ]
+          },
+          {
+            "target_number": "2.5",
+            "description": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge.",
+            "key_indicators": [
+              "2.5.1 Number of plant and animal genetic resources for food and agriculture secured in either medium or long-term conservation facilities",
+              "2.5.2 Proportion of local breeds classified as being at risk of extinction"
+            ]
+          },
+          {
+            "target_number": "2.a",
+            "description": "Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries.",
+            "key_indicators": [
+              "2.a.1 The agriculture orientation index for government expenditures",
+              "2.a.2 Total official flows (official development assistance plus other official flows) to the agriculture sector"
+            ]
+          },
+          {
+            "target_number": "2.b",
+            "description": "Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round.",
+            "key_indicators": [
+              "2.b.1 Agricultural export subsidies"
+            ]
+          },
+          {
+            "target_number": "2.c",
+            "description": "Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility.",
+            "key_indicators": [
+              "2.c.1 Indicator of food price anomalies"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 20% on track",
+          "regions_on_track": [
+            "Eastern Asia",
+            "Northern America"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Southern Asia",
+            "Western Asia",
+            "Latin America"
+          ],
+          "key_statistics": [
+            "In 2022, up to 783 million people faced hunger globally.",
+            "Nearly 2.4 billion people were moderately or severely food insecure in 2022.",
+            "148 million children under 5 were stunted in 2022.",
+            "Global hunger has increased since 2015, reversing previous progress.",
+            "The COVID-19 pandemic, conflict, and climate change have exacerbated food insecurity."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Armed conflict and political instability",
+            "impact": "Disrupts food production, supply chains, and access to food, leading to acute food insecurity and famine conditions.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Western Asia",
+              "Eastern Europe"
+            ]
+          },
+          {
+            "challenge": "Climate change and extreme weather events",
+            "impact": "Reduces agricultural productivity, causes crop failures, and increases food price volatility.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia",
+              "Small Island Developing States"
+            ]
+          },
+          {
+            "challenge": "Economic downturns and rising food prices",
+            "impact": "Limits affordability and access to nutritious food, especially for vulnerable populations.",
+            "affected_regions": [
+              "Latin America",
+              "Sub-Saharan Africa",
+              "South Asia"
+            ]
+          },
+          {
+            "challenge": "Persistent inequalities in access to land, resources, and markets",
+            "impact": "Small-scale producers, women, and marginalized groups face barriers to increasing productivity and income.",
+            "affected_regions": [
+              "Global"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Brazil",
+            "initiative": "Zero Hunger Program (Fome Zero) combining cash transfers, school feeding, and support for family farming.",
+            "impact": "Contributed to a 75% reduction in child malnutrition and a 50% reduction in hunger between 2003 and 2014.",
+            "year": "2014"
+          },
+          {
+            "country": "Bangladesh",
+            "initiative": "Community-based nutrition programs and investments in agricultural productivity.",
+            "impact": "Stunting among children under 5 reduced from 51% in 2000 to 28% in 2022.",
+            "year": "2022"
+          },
+          {
+            "country": "Ethiopia",
+            "initiative": "Productive Safety Net Programme providing food and cash transfers to vulnerable households.",
+            "impact": "Improved food security for over 8 million people and reduced poverty rates.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Scale up investments in sustainable and climate-resilient agriculture.",
+          "Expand social protection and nutrition programs for vulnerable groups.",
+          "Strengthen food systems to withstand shocks from conflict, climate, and economic crises.",
+          "Promote equitable access to land, resources, and markets for small-scale producers.",
+          "Reduce food loss and waste across the supply chain.",
+          "Enhance international cooperation and financing for food security."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1: No Poverty",
+            "relationship": "Ending hunger is closely linked to poverty reduction, as poverty is a primary driver of food insecurity."
+          },
+          {
+            "related_sdg": "SDG 3: Good Health and Well-being",
+            "relationship": "Adequate nutrition is essential for health, reducing child mortality and improving maternal health."
+          },
+          {
+            "related_sdg": "SDG 13: Climate Action",
+            "relationship": "Climate change impacts agricultural productivity and food security, requiring integrated solutions."
+          },
+          {
+            "related_sdg": "SDG 5: Gender Equality",
+            "relationship": "Empowering women in agriculture increases productivity and improves food security outcomes."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:14:33"
+    },
+    {
+      "sdg_number": 3,
+      "sdg_name": "Good Health and Well-being",
+      "data": {
+        "targets": [
+          {
+            "target_number": "3.1",
+            "description": "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births.",
+            "key_indicators": [
+              "Maternal mortality ratio",
+              "Proportion of births attended by skilled health personnel"
+            ]
+          },
+          {
+            "target_number": "3.2",
+            "description": "By 2030, end preventable deaths of newborns and children under 5 years of age.",
+            "key_indicators": [
+              "Under-5 mortality rate",
+              "Neonatal mortality rate"
+            ]
+          },
+          {
+            "target_number": "3.3",
+            "description": "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases.",
+            "key_indicators": [
+              "Number of new HIV infections per 1,000 uninfected population",
+              "Tuberculosis incidence per 100,000 population",
+              "Malaria incidence per 1,000 population"
+            ]
+          },
+          {
+            "target_number": "3.4",
+            "description": "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being.",
+            "key_indicators": [
+              "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+              "Suicide mortality rate"
+            ]
+          },
+          {
+            "target_number": "3.5",
+            "description": "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol.",
+            "key_indicators": [
+              "Coverage of treatment interventions for substance use disorders",
+              "Alcohol per capita consumption"
+            ]
+          },
+          {
+            "target_number": "3.6",
+            "description": "By 2030, halve the number of global deaths and injuries from road traffic accidents.",
+            "key_indicators": [
+              "Death rate due to road traffic injuries"
+            ]
+          },
+          {
+            "target_number": "3.7",
+            "description": "By 2030, ensure universal access to sexual and reproductive health-care services.",
+            "key_indicators": [
+              "Proportion of women of reproductive age who have their need for family planning satisfied with modern methods",
+              "Adolescent birth rate"
+            ]
+          },
+          {
+            "target_number": "3.8",
+            "description": "Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all.",
+            "key_indicators": [
+              "Coverage of essential health services",
+              "Proportion of population with large household health expenditures as a share of total household expenditure"
+            ]
+          },
+          {
+            "target_number": "3.9",
+            "description": "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination.",
+            "key_indicators": [
+              "Mortality rate attributed to household and ambient air pollution",
+              "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene"
+            ]
+          },
+          {
+            "target_number": "3.a",
+            "description": "Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate.",
+            "key_indicators": [
+              "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+            ]
+          },
+          {
+            "target_number": "3.b",
+            "description": "Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries.",
+            "key_indicators": [
+              "Proportion of population with access to affordable medicines and vaccines",
+              "Total net official development assistance to medical research and basic health sectors"
+            ]
+          },
+          {
+            "target_number": "3.c",
+            "description": "Substantially increase health financing and recruitment, development, training and retention of the health workforce in developing countries.",
+            "key_indicators": [
+              "Health worker density and distribution"
+            ]
+          },
+          {
+            "target_number": "3.d",
+            "description": "Strengthen the capacity of all countries for early warning, risk reduction and management of national and global health risks.",
+            "key_indicators": [
+              "International Health Regulations (IHR) capacity and health emergency preparedness"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Approximately 60%",
+          "regions_on_track": [
+            "Europe",
+            "Northern America",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Southern Asia",
+            "Latin America and the Caribbean"
+          ],
+          "key_statistics": [
+            "Global maternal mortality ratio was 223 per 100,000 live births in 2020, far from the 2030 target.",
+            "In 2021, 5 million children under age 5 died, mostly from preventable causes.",
+            "HIV, tuberculosis, and malaria remain leading causes of death in low-income countries.",
+            "COVID-19 pandemic caused severe disruptions to essential health services in over 90% of countries.",
+            "Non-communicable diseases account for 74% of all deaths globally."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Insufficient health system capacity and workforce shortages.",
+            "impact": "Limits access to essential health services, especially in rural and low-income areas.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Southern Asia"
+            ]
+          },
+          {
+            "challenge": "High burden of communicable and non-communicable diseases.",
+            "impact": "Strains health systems and increases premature mortality.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Southeast Asia",
+              "Eastern Europe"
+            ]
+          },
+          {
+            "challenge": "Inequitable access to vaccines and medicines.",
+            "impact": "Exacerbates health disparities and slows progress towards universal health coverage.",
+            "affected_regions": [
+              "Low-income countries",
+              "Conflict-affected regions"
+            ]
+          },
+          {
+            "challenge": "Environmental pollution and unsafe water, sanitation, and hygiene.",
+            "impact": "Leads to millions of preventable deaths annually, especially among children.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Rwanda",
+            "initiative": "Nationwide community health worker program to deliver essential health services and maternal care.",
+            "impact": "Under-5 mortality rate reduced by more than 60% between 2000 and 2020.",
+            "year": "2020"
+          },
+          {
+            "country": "Thailand",
+            "initiative": "Universal Health Coverage Scheme providing affordable access to health services.",
+            "impact": "Over 99% of the population covered by health insurance; significant reductions in out-of-pocket health expenditures.",
+            "year": "2022"
+          },
+          {
+            "country": "India",
+            "initiative": "Intensified Mission Indradhanush for expanded immunization coverage.",
+            "impact": "Full immunization coverage increased from 62% in 2015 to 76% in 2021.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Strengthen primary health care systems and health workforce capacity.",
+          "Expand equitable access to vaccines, medicines, and essential health services.",
+          "Increase investment in health infrastructure and financing, especially in low-income countries.",
+          "Address non-communicable diseases through prevention, early detection, and treatment.",
+          "Improve data collection, monitoring, and health emergency preparedness."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1: No Poverty",
+            "relationship": "Poverty increases vulnerability to poor health outcomes and limits access to health services."
+          },
+          {
+            "related_sdg": "SDG 2: Zero Hunger",
+            "relationship": "Malnutrition undermines health, especially for mothers and children."
+          },
+          {
+            "related_sdg": "SDG 4: Quality Education",
+            "relationship": "Health education promotes healthy behaviors and improves health outcomes."
+          },
+          {
+            "related_sdg": "SDG 6: Clean Water and Sanitation",
+            "relationship": "Access to clean water and sanitation reduces disease transmission and improves health."
+          },
+          {
+            "related_sdg": "SDG 13: Climate Action",
+            "relationship": "Climate change impacts health through increased disease burden and health emergencies."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:14:55"
+    },
+    {
+      "sdg_number": 4,
+      "sdg_name": "Quality Education",
+      "data": {
+        "targets": [
+          {
+            "target_number": "4.1",
+            "description": "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes.",
+            "key_indicators": [
+              "4.1.1: Proportion of children and young people achieving at least a minimum proficiency level in reading and mathematics"
+            ]
+          },
+          {
+            "target_number": "4.2",
+            "description": "By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education.",
+            "key_indicators": [
+              "4.2.1: Proportion of children under 5 years of age who are developmentally on track",
+              "4.2.2: Participation rate in organized learning (one year before the official primary entry age)"
+            ]
+          },
+          {
+            "target_number": "4.3",
+            "description": "By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university.",
+            "key_indicators": [
+              "4.3.1: Participation rate of youth and adults in formal and non-formal education and training"
+            ]
+          },
+          {
+            "target_number": "4.4",
+            "description": "By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.",
+            "key_indicators": [
+              "4.4.1: Proportion of youth and adults with information and communications technology (ICT) skills"
+            ]
+          },
+          {
+            "target_number": "4.5",
+            "description": "By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations.",
+            "key_indicators": [
+              "4.5.1: Parity indices (female/male, rural/urban, bottom/top wealth quintile and others)"
+            ]
+          },
+          {
+            "target_number": "4.6",
+            "description": "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy.",
+            "key_indicators": [
+              "4.6.1: Proportion of population in a given age group achieving at least a fixed level of proficiency in functional literacy and numeracy"
+            ]
+          },
+          {
+            "target_number": "4.7",
+            "description": "By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development.",
+            "key_indicators": [
+              "4.7.1: Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed"
+            ]
+          },
+          {
+            "target_number": "4.a",
+            "description": "Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.",
+            "key_indicators": [
+              "4.a.1: Proportion of schools with access to basic services (electricity, internet, computers, adapted infrastructure, water, sanitation, handwashing facilities)"
+            ]
+          },
+          {
+            "target_number": "4.b",
+            "description": "By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes.",
+            "key_indicators": [
+              "4.b.1: Volume of official development assistance flows for scholarships"
+            ]
+          },
+          {
+            "target_number": "4.c",
+            "description": "By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States.",
+            "key_indicators": [
+              "4.c.1: Proportion of teachers with the minimum required qualifications"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "68%",
+          "regions_on_track": [
+            "Europe",
+            "Northern America",
+            "Eastern Asia"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Southern Asia",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "key_statistics": [
+            "244 million children and youth are out of school globally (2022, UNESCO)",
+            "Only 58% of children and adolescents worldwide achieve minimum proficiency in reading",
+            "COVID-19 caused the largest disruption of education in history, affecting over 1.6 billion learners at its peak",
+            "Girls are still more likely than boys to never set foot in a classroom, especially in Sub-Saharan Africa"
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Learning poverty and low proficiency in foundational skills",
+            "impact": "Millions of children are in school but not learning basic reading and math, limiting future opportunities and perpetuating cycles of poverty.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Southern Asia"
+            ]
+          },
+          {
+            "challenge": "Gender disparities and barriers for vulnerable groups",
+            "impact": "Girls, children with disabilities, and those in conflict zones face significant barriers to accessing quality education, leading to exclusion and inequality.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Middle East and North Africa"
+            ]
+          },
+          {
+            "challenge": "Insufficient funding and infrastructure",
+            "impact": "Lack of resources leads to overcrowded classrooms, underqualified teachers, and inadequate learning materials, undermining education quality.",
+            "affected_regions": [
+              "Least Developed Countries",
+              "Small Island Developing States"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Vietnam",
+            "initiative": "Comprehensive education reforms focusing on curriculum modernization, teacher training, and investment in school infrastructure.",
+            "impact": "Vietnam consistently outperforms many higher-income countries in international assessments such as PISA, with over 80% of students achieving minimum proficiency in reading and math.",
+            "year": "2022"
+          },
+          {
+            "country": "Rwanda",
+            "initiative": "Implementation of a nationwide school feeding program and digital learning platforms to boost enrolment and retention.",
+            "impact": "Primary school enrolment rates exceeded 98%, and dropout rates decreased significantly.",
+            "year": "2021"
+          },
+          {
+            "country": "Bangladesh",
+            "initiative": "Expansion of stipend programs for girls and investments in rural schools.",
+            "impact": "Gender parity achieved in primary and secondary education enrolment.",
+            "year": "2022"
+          }
+        ],
+        "priority_actions": [
+          "Increase investment in education infrastructure and teacher training, especially in least developed countries.",
+          "Expand access to early childhood education and support for vulnerable groups.",
+          "Accelerate digital learning solutions to bridge the digital divide.",
+          "Strengthen policies to eliminate gender disparities and support inclusive education.",
+          "Enhance data collection and monitoring to inform evidence-based policy making."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1: No Poverty",
+            "relationship": "Quality education breaks the cycle of poverty by improving employment prospects and income."
+          },
+          {
+            "related_sdg": "SDG 5: Gender Equality",
+            "relationship": "Education empowers girls and women, reducing gender disparities and promoting equality."
+          },
+          {
+            "related_sdg": "SDG 8: Decent Work and Economic Growth",
+            "relationship": "Education equips individuals with skills for employment, entrepreneurship, and economic productivity."
+          },
+          {
+            "related_sdg": "SDG 10: Reduced Inequalities",
+            "relationship": "Inclusive education reduces inequalities within and among countries."
+          },
+          {
+            "related_sdg": "SDG 16: Peace, Justice and Strong Institutions",
+            "relationship": "Education fosters peaceful, just societies by promoting tolerance, citizenship, and human rights."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:15:13"
+    },
+    {
+      "sdg_number": 5,
+      "sdg_name": "Gender Equality",
+      "data": {
+        "targets": [
+          {
+            "target_number": "5.1",
+            "description": "End all forms of discrimination against all women and girls everywhere.",
+            "key_indicators": [
+              "5.1.1: Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
+            ]
+          },
+          {
+            "target_number": "5.2",
+            "description": "Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation.",
+            "key_indicators": [
+              "5.2.1: Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months",
+              "5.2.2: Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months"
+            ]
+          },
+          {
+            "target_number": "5.3",
+            "description": "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation.",
+            "key_indicators": [
+              "5.3.1: Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+              "5.3.2: Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting"
+            ]
+          },
+          {
+            "target_number": "5.4",
+            "description": "Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family.",
+            "key_indicators": [
+              "5.4.1: Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+            ]
+          },
+          {
+            "target_number": "5.5",
+            "description": "Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life.",
+            "key_indicators": [
+              "5.5.1: Proportion of seats held by women in national parliaments and local governments",
+              "5.5.2: Proportion of women in managerial positions"
+            ]
+          },
+          {
+            "target_number": "5.6",
+            "description": "Ensure universal access to sexual and reproductive health and reproductive rights.",
+            "key_indicators": [
+              "5.6.1: Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+              "5.6.2: Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+            ]
+          },
+          {
+            "target_number": "5.a",
+            "description": "Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources.",
+            "key_indicators": [
+              "5.a.1: Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",
+              "5.a.2: Proportion of countries where the legal framework guarantees women’s equal rights to land ownership and/or control"
+            ]
+          },
+          {
+            "target_number": "5.b",
+            "description": "Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women.",
+            "key_indicators": [
+              "5.b.1: Proportion of individuals who own a mobile telephone, by sex"
+            ]
+          },
+          {
+            "target_number": "5.c",
+            "description": "Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels.",
+            "key_indicators": [
+              "5.c.1: Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Approximately 65% of countries have legal frameworks to promote gender equality, but progress is slow.",
+          "regions_on_track": [
+            "Europe",
+            "Northern America"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Southern Asia",
+            "Oceania (excluding Australia and New Zealand)",
+            "Northern Africa"
+          ],
+          "key_statistics": [
+            "Globally, 1 in 3 women have experienced physical or sexual violence.",
+            "129 million girls are out of school worldwide (2023).",
+            "Only 26.5% of seats in national parliaments are held by women (2023).",
+            "650 million women alive today were married before age 18.",
+            "Women spend three times as much time as men on unpaid care and domestic work."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Persistent gender-based violence, including domestic violence and sexual exploitation.",
+            "impact": "Undermines women's physical and mental health, reduces participation in education and the workforce, and perpetuates cycles of poverty.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Southern Asia",
+              "Latin America"
+            ]
+          },
+          {
+            "challenge": "Limited access to education and economic opportunities for women and girls.",
+            "impact": "Restricts women's ability to participate in decision-making, limits economic growth, and increases vulnerability to poverty.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Northern Africa",
+              "Western Asia"
+            ]
+          },
+          {
+            "challenge": "Prevalence of harmful practices such as child marriage and female genital mutilation.",
+            "impact": "Violates human rights, causes lifelong health complications, and limits educational and economic opportunities.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Southern Asia"
+            ]
+          },
+          {
+            "challenge": "Underrepresentation of women in leadership and decision-making roles.",
+            "impact": "Leads to policies that do not fully address women's needs and perpetuates gender inequality.",
+            "affected_regions": [
+              "Global"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Rwanda",
+            "initiative": "Implementation of gender quotas in parliament and local government, ensuring at least 30% representation for women.",
+            "impact": "Women now hold 61% of seats in Rwanda's lower house of parliament, the highest in the world, leading to more inclusive legislation.",
+            "year": "2023"
+          },
+          {
+            "country": "India",
+            "initiative": "Beti Bachao, Beti Padhao (Save the Girl Child, Educate the Girl Child) campaign to address declining child sex ratio and promote girls' education.",
+            "impact": "Improved child sex ratio in targeted districts and increased girls' enrollment in schools.",
+            "year": "2022"
+          },
+          {
+            "country": "Tunisia",
+            "initiative": "Legal reforms to strengthen women's rights, including laws against domestic violence and equal inheritance rights.",
+            "impact": "Increased legal protection for women and higher reporting rates of gender-based violence.",
+            "year": "2022"
+          }
+        ],
+        "priority_actions": [
+          "Strengthen and enforce laws and policies to eliminate gender-based violence.",
+          "Increase investment in girls' education and skills development.",
+          "Promote women's economic empowerment and equal access to resources.",
+          "Expand access to sexual and reproductive health services.",
+          "Support women's leadership and participation in decision-making at all levels.",
+          "Address unpaid care and domestic work through social protection and infrastructure.",
+          "Combat harmful practices such as child marriage and female genital mutilation."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1: No Poverty",
+            "relationship": "Gender equality is essential to reducing poverty, as empowering women leads to higher household incomes and improved well-being."
+          },
+          {
+            "related_sdg": "SDG 3: Good Health and Well-being",
+            "relationship": "Gender equality improves health outcomes by increasing access to health services and reducing gender-based violence."
+          },
+          {
+            "related_sdg": "SDG 4: Quality Education",
+            "relationship": "Educating girls leads to greater gender equality and improved social and economic outcomes."
+          },
+          {
+            "related_sdg": "SDG 8: Decent Work and Economic Growth",
+            "relationship": "Women's participation in the workforce drives economic growth and productivity."
+          },
+          {
+            "related_sdg": "SDG 10: Reduced Inequalities",
+            "relationship": "Achieving gender equality helps reduce social and economic inequalities within and among countries."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:15:43"
+    },
+    {
+      "sdg_number": 6,
+      "sdg_name": "Clean Water and Sanitation",
+      "data": {
+        "targets": [
+          {
+            "target_number": "6.1",
+            "description": "By 2030, achieve universal and equitable access to safe and affordable drinking water for all.",
+            "key_indicators": [
+              "6.1.1: Proportion of population using safely managed drinking water services"
+            ]
+          },
+          {
+            "target_number": "6.2",
+            "description": "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations.",
+            "key_indicators": [
+              "6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water"
+            ]
+          },
+          {
+            "target_number": "6.3",
+            "description": "By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.",
+            "key_indicators": [
+              "6.3.1: Proportion of domestic and industrial wastewater flows safely treated",
+              "6.3.2: Proportion of bodies of water with good ambient water quality"
+            ]
+          },
+          {
+            "target_number": "6.4",
+            "description": "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity.",
+            "key_indicators": [
+              "6.4.1: Change in water-use efficiency over time",
+              "6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+            ]
+          },
+          {
+            "target_number": "6.5",
+            "description": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate.",
+            "key_indicators": [
+              "6.5.1: Degree of integrated water resources management implementation",
+              "6.5.2: Proportion of transboundary basin area with an operational arrangement for water cooperation"
+            ]
+          },
+          {
+            "target_number": "6.6",
+            "description": "By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes.",
+            "key_indicators": [
+              "6.6.1: Change in the extent of water-related ecosystems over time"
+            ]
+          },
+          {
+            "target_number": "6.a",
+            "description": "By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies.",
+            "key_indicators": [
+              "6.a.1: Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+            ]
+          },
+          {
+            "target_number": "6.b",
+            "description": "Support and strengthen the participation of local communities in improving water and sanitation management.",
+            "key_indicators": [
+              "6.b.1: Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "73% (drinking water), 57% (sanitation) as of 2022",
+          "regions_on_track": [
+            "Europe",
+            "Northern America",
+            "Australia and New Zealand"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Central Asia",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "key_statistics": [
+            "2.2 billion people lack safely managed drinking water services (2022)",
+            "3.5 billion people lack safely managed sanitation services (2022)",
+            "494 million people practice open defecation (2022)",
+            "Only 58% of wastewater is safely treated globally (2022)",
+            "Water stress affects over 2 billion people worldwide"
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Insufficient infrastructure and investment in water and sanitation systems",
+            "impact": "Limits access to safe water and sanitation, particularly in rural and low-income urban areas, increasing health risks and perpetuating poverty",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia",
+              "Rural Latin America"
+            ]
+          },
+          {
+            "challenge": "Water scarcity and over-extraction of freshwater resources",
+            "impact": "Threatens water security for agriculture, industry, and households, leading to conflicts and migration",
+            "affected_regions": [
+              "Middle East and North Africa",
+              "Central Asia",
+              "Western United States"
+            ]
+          },
+          {
+            "challenge": "Water pollution from domestic, industrial, and agricultural sources",
+            "impact": "Degrades water quality, harms ecosystems, and increases the cost of water treatment",
+            "affected_regions": [
+              "South-East Asia",
+              "Eastern Europe",
+              "Parts of China and India"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Bangladesh",
+            "initiative": "Nationwide installation of community-based water filtration systems and promotion of household sanitation facilities through the Community-Led Total Sanitation (CLTS) approach.",
+            "impact": "Open defecation reduced from 34% in 1990 to less than 1% in 2022; significant improvements in child health and reduction in waterborne diseases.",
+            "year": "2022"
+          },
+          {
+            "country": "Morocco",
+            "initiative": "National Water Plan focusing on integrated water resources management, investment in desalination plants, and expansion of rural water supply networks.",
+            "impact": "Access to improved drinking water increased to over 90% of the population; enhanced resilience to drought and water scarcity.",
+            "year": "2021"
+          },
+          {
+            "country": "Singapore",
+            "initiative": "Implementation of the 'Four National Taps' strategy, including NEWater (recycled water), desalination, imported water, and local catchment, ensuring water security.",
+            "impact": "100% of the population has access to safe drinking water and sanitation; recognized as a global leader in water management.",
+            "year": "2022"
+          }
+        ],
+        "priority_actions": [
+          "Increase investment in water and sanitation infrastructure, especially in underserved regions",
+          "Strengthen governance and capacity for integrated water resources management",
+          "Promote water-use efficiency and conservation in agriculture, industry, and households",
+          "Expand wastewater treatment and safe reuse technologies",
+          "Enhance data collection and monitoring for informed decision-making",
+          "Support community-led initiatives and gender-sensitive approaches",
+          "Foster international cooperation and knowledge sharing"
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 3",
+            "relationship": "Access to clean water and sanitation is essential for good health and well-being, reducing waterborne diseases and child mortality."
+          },
+          {
+            "related_sdg": "SDG 2",
+            "relationship": "Water availability and quality are critical for sustainable agriculture and food security."
+          },
+          {
+            "related_sdg": "SDG 13",
+            "relationship": "Climate change impacts water availability and quality, increasing the frequency and severity of droughts and floods."
+          },
+          {
+            "related_sdg": "SDG 11",
+            "relationship": "Sustainable cities require resilient water and sanitation infrastructure to support growing populations."
+          },
+          {
+            "related_sdg": "SDG 14",
+            "relationship": "Reducing land-based water pollution helps protect marine ecosystems and biodiversity."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:16:01"
+    },
+    {
+      "sdg_number": 7,
+      "sdg_name": "Affordable and Clean Energy",
+      "data": {
+        "targets": [
+          {
+            "target_number": "7.1",
+            "description": "By 2030, ensure universal access to affordable, reliable and modern energy services.",
+            "key_indicators": [
+              "7.1.1 Proportion of population with access to electricity",
+              "7.1.2 Proportion of population with primary reliance on clean fuels and technology"
+            ]
+          },
+          {
+            "target_number": "7.2",
+            "description": "By 2030, increase substantially the share of renewable energy in the global energy mix.",
+            "key_indicators": [
+              "7.2.1 Renewable energy share in the total final energy consumption"
+            ]
+          },
+          {
+            "target_number": "7.3",
+            "description": "By 2030, double the global rate of improvement in energy efficiency.",
+            "key_indicators": [
+              "7.3.1 Energy intensity measured in terms of primary energy and GDP"
+            ]
+          },
+          {
+            "target_number": "7.a",
+            "description": "By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology.",
+            "key_indicators": [
+              "7.a.1 International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
+            ]
+          },
+          {
+            "target_number": "7.b",
+            "description": "By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States, and land-locked developing countries, in accordance with their respective programmes of support.",
+            "key_indicators": [
+              "7.b.1 Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "73% (electricity access, 2021)",
+          "regions_on_track": [
+            "Eastern Asia",
+            "South-Eastern Asia",
+            "Latin America"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "key_statistics": [
+            "733 million people worldwide lacked access to electricity in 2021.",
+            "2.3 billion people still rely on polluting fuels and technologies for cooking.",
+            "Renewable energy accounted for 19.1% of global final energy consumption in 2021.",
+            "Global annual rate of improvement in energy efficiency was 2% in 2021, below the 2.6% target."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Slow progress in expanding electricity access in Sub-Saharan Africa.",
+            "impact": "Millions remain without reliable electricity, hindering education, healthcare, and economic development.",
+            "affected_regions": [
+              "Sub-Saharan Africa"
+            ]
+          },
+          {
+            "challenge": "High reliance on traditional biomass and polluting cooking fuels.",
+            "impact": "Leads to indoor air pollution, health risks, and environmental degradation.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia"
+            ]
+          },
+          {
+            "challenge": "Insufficient investment in renewable energy infrastructure in least developed countries.",
+            "impact": "Slows the transition to clean energy and limits economic opportunities.",
+            "affected_regions": [
+              "Least Developed Countries",
+              "Small Island Developing States"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Bangladesh",
+            "initiative": "Solar Home Systems program, providing off-grid solar power to rural households.",
+            "impact": "Over 4 million solar home systems installed, benefiting more than 20 million people.",
+            "year": "2022"
+          },
+          {
+            "country": "Morocco",
+            "initiative": "Noor Ouarzazate Solar Complex, one of the world's largest concentrated solar power plants.",
+            "impact": "Supplies electricity to over 2 million people and reduces CO2 emissions by hundreds of thousands of tons annually.",
+            "year": "2021"
+          },
+          {
+            "country": "India",
+            "initiative": "Saubhagya Scheme, aiming for universal household electrification.",
+            "impact": "Over 28 million households electrified since 2017.",
+            "year": "2022"
+          }
+        ],
+        "priority_actions": [
+          "Accelerate investment in renewable energy infrastructure, especially in least developed countries.",
+          "Expand access to clean cooking solutions and technologies.",
+          "Strengthen policy frameworks and incentives for energy efficiency.",
+          "Enhance international cooperation and financing for clean energy research and deployment.",
+          "Promote decentralized and off-grid energy solutions for remote and rural areas."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 3",
+            "relationship": "Access to clean energy reduces indoor air pollution and improves health outcomes."
+          },
+          {
+            "related_sdg": "SDG 13",
+            "relationship": "Increasing renewable energy use mitigates climate change by reducing greenhouse gas emissions."
+          },
+          {
+            "related_sdg": "SDG 1",
+            "relationship": "Affordable energy access is essential for poverty reduction and economic development."
+          },
+          {
+            "related_sdg": "SDG 4",
+            "relationship": "Reliable electricity enables better educational facilities and digital learning."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:16:14"
+    },
+    {
+      "sdg_number": 8,
+      "sdg_name": "Decent Work and Economic Growth",
+      "data": {
+        "targets": [
+          {
+            "target_number": "8.1",
+            "description": "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7% gross domestic product growth per annum in the least developed countries.",
+            "key_indicators": [
+              "8.1.1 Annual growth rate of real GDP per capita"
+            ]
+          },
+          {
+            "target_number": "8.2",
+            "description": "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labor-intensive sectors.",
+            "key_indicators": [
+              "8.2.1 Annual growth rate of real GDP per employed person"
+            ]
+          },
+          {
+            "target_number": "8.3",
+            "description": "Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services.",
+            "key_indicators": [
+              "8.3.1 Proportion of informal employment in non‑agriculture employment, by sex"
+            ]
+          },
+          {
+            "target_number": "8.4",
+            "description": "Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10-Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead.",
+            "key_indicators": [
+              "8.4.1 Material footprint, material footprint per capita, and material footprint per GDP",
+              "8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+            ]
+          },
+          {
+            "target_number": "8.5",
+            "description": "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.",
+            "key_indicators": [
+              "8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities",
+              "8.5.2 Unemployment rate, by sex, age and persons with disabilities"
+            ]
+          },
+          {
+            "target_number": "8.6",
+            "description": "By 2020, substantially reduce the proportion of youth not in employment, education or training.",
+            "key_indicators": [
+              "8.6.1 Proportion of youth (aged 15–24 years) not in education, employment or training"
+            ]
+          },
+          {
+            "target_number": "8.7",
+            "description": "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms.",
+            "key_indicators": [
+              "8.7.1 Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
+            ]
+          },
+          {
+            "target_number": "8.8",
+            "description": "Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment.",
+            "key_indicators": [
+              "8.8.1 Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",
+              "8.8.2 Level of national compliance with labour rights (freedom of association and collective bargaining)"
+            ]
+          },
+          {
+            "target_number": "8.9",
+            "description": "By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products.",
+            "key_indicators": [
+              "8.9.1 Tourism direct GDP as a proportion of total GDP and in growth rate",
+              "8.9.2 Number of jobs in tourism industries as a proportion of total jobs and growth rate of jobs, by sex"
+            ]
+          },
+          {
+            "target_number": "8.10",
+            "description": "Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all.",
+            "key_indicators": [
+              "8.10.1 Number of commercial bank branches and ATMs per 100,000 adults",
+              "8.10.2 Proportion of adults with an account at a bank or other financial institution or with a mobile-money-service provider"
+            ]
+          },
+          {
+            "target_number": "8.a",
+            "description": "Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries.",
+            "key_indicators": [
+              "8.a.1 Aid for Trade commitments and disbursements"
+            ]
+          },
+          {
+            "target_number": "8.b",
+            "description": "By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization.",
+            "key_indicators": [
+              "8.b.1 Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Approximately 55% of targets are off track",
+          "regions_on_track": [
+            "East Asia",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Latin America and the Caribbean",
+            "Central and Southern Asia"
+          ],
+          "key_statistics": [
+            "Global real GDP growth per capita was 2.3% in 2022, below the pre-pandemic average.",
+            "Global unemployment rate was 5.4% in 2023, down from 6.6% in 2020 but still above pre-pandemic levels in many regions.",
+            "In 2022, 23.5% of youth (aged 15–24) were not in employment, education or training.",
+            "In 2021, 160 million children were engaged in child labour, with progress stalled since 2016.",
+            "The informal employment rate remains above 60% in developing regions."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Slow economic recovery from the COVID-19 pandemic",
+            "impact": "Persistently high unemployment rates, especially among youth and women, and increased poverty levels.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Latin America and the Caribbean",
+              "Central and Southern Asia"
+            ]
+          },
+          {
+            "challenge": "High prevalence of informal and vulnerable employment",
+            "impact": "Lack of social protection, job security, and decent working conditions for a large share of the workforce.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South-Eastern Asia",
+              "Southern Asia"
+            ]
+          },
+          {
+            "challenge": "Rising child labour and forced labour",
+            "impact": "Stalled or reversed progress in eradicating child labour, with millions of children at risk.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia"
+            ]
+          },
+          {
+            "challenge": "Limited access to financial services",
+            "impact": "Small businesses and vulnerable populations face barriers to entrepreneurship and economic participation.",
+            "affected_regions": [
+              "Least Developed Countries",
+              "Rural areas globally"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Bangladesh",
+            "initiative": "Expansion of the ready-made garment sector with improved labour rights and safety standards following the Accord on Fire and Building Safety.",
+            "impact": "Over 2 million workers, mostly women, benefited from safer workplaces and higher wages; significant reduction in workplace accidents.",
+            "year": "2022"
+          },
+          {
+            "country": "Rwanda",
+            "initiative": "National Youth Employment Strategy focusing on entrepreneurship and skills development.",
+            "impact": "Created over 200,000 new jobs for youth and increased youth participation in the formal economy.",
+            "year": "2021"
+          },
+          {
+            "country": "Vietnam",
+            "initiative": "Promotion of digital financial inclusion through mobile banking and fintech solutions.",
+            "impact": "Financial account ownership among adults increased from 31% in 2017 to 69% in 2021.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Accelerate inclusive and sustainable economic recovery from the COVID-19 pandemic.",
+          "Promote formalization of informal employment and extend social protection coverage.",
+          "Invest in skills development, especially for youth and women.",
+          "Strengthen enforcement of labour rights and workplace safety standards.",
+          "Expand access to financial services and support for micro, small, and medium-sized enterprises.",
+          "Implement policies to eradicate child labour and forced labour.",
+          "Foster innovation and digital transformation to create new decent work opportunities."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1",
+            "relationship": "Decent work and economic growth are critical for poverty eradication."
+          },
+          {
+            "related_sdg": "SDG 4",
+            "relationship": "Quality education and skills development are essential for productive employment."
+          },
+          {
+            "related_sdg": "SDG 5",
+            "relationship": "Gender equality in the workplace contributes to economic growth."
+          },
+          {
+            "related_sdg": "SDG 9",
+            "relationship": "Industry, innovation, and infrastructure drive productivity and job creation."
+          },
+          {
+            "related_sdg": "SDG 10",
+            "relationship": "Reducing inequalities ensures inclusive economic growth."
+          },
+          {
+            "related_sdg": "SDG 12",
+            "relationship": "Sustainable consumption and production patterns support resource-efficient growth."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:16:28"
+    },
+    {
+      "sdg_number": 9,
+      "sdg_name": "Industry, Innovation and Infrastructure",
+      "data": {
+        "targets": [
+          {
+            "target_number": "9.1",
+            "description": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.",
+            "key_indicators": [
+              "9.1.1: Proportion of the rural population who live within 2 km of an all-season road",
+              "9.1.2: Passenger and freight volumes, by mode of transport"
+            ]
+          },
+          {
+            "target_number": "9.2",
+            "description": "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries.",
+            "key_indicators": [
+              "9.2.1: Manufacturing value added as a proportion of GDP and per capita",
+              "9.2.2: Manufacturing employment as a proportion of total employment"
+            ]
+          },
+          {
+            "target_number": "9.3",
+            "description": "Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets.",
+            "key_indicators": [
+              "9.3.1: Proportion of small-scale industries in total industry value added",
+              "9.3.2: Proportion of small-scale industries with a loan or line of credit"
+            ]
+          },
+          {
+            "target_number": "9.4",
+            "description": "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities.",
+            "key_indicators": [
+              "9.4.1: CO2 emission per unit of value added"
+            ]
+          },
+          {
+            "target_number": "9.5",
+            "description": "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.",
+            "key_indicators": [
+              "9.5.1: Research and development expenditure as a proportion of GDP",
+              "9.5.2: Researchers (in full-time equivalent) per million inhabitants"
+            ]
+          },
+          {
+            "target_number": "9.a",
+            "description": "Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States.",
+            "key_indicators": [
+              "9.a.1: Total official international support (official development assistance plus other official flows) to infrastructure"
+            ]
+          },
+          {
+            "target_number": "9.b",
+            "description": "Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities.",
+            "key_indicators": [
+              "9.b.1: Proportion of medium and high-tech industry value added in total value added"
+            ]
+          },
+          {
+            "target_number": "9.c",
+            "description": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020.",
+            "key_indicators": [
+              "9.c.1: Proportion of population covered by a mobile network, by technology"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Challenges remain",
+          "global_progress_percentage": "Approximately 60% of targets show moderate progress",
+          "regions_on_track": [
+            "East Asia",
+            "Europe",
+            "Northern America"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Least Developed Countries",
+            "Landlocked Developing Countries"
+          ],
+          "key_statistics": [
+            "Global manufacturing value added per capita increased from $1,560 in 2015 to $1,740 in 2022 (constant 2015 USD).",
+            "In 2022, 95% of the world population was covered by a mobile broadband network, but only 36% in least developed countries had internet access.",
+            "CO2 emissions per unit of manufacturing value added decreased by 25% globally between 2010 and 2021."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Limited access to reliable infrastructure in rural and remote areas.",
+            "impact": "Hinders economic opportunities, access to markets, and essential services for millions of people.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia",
+              "Least Developed Countries"
+            ]
+          },
+          {
+            "challenge": "Slow progress in industrialization and value addition in least developed countries.",
+            "impact": "Limits job creation, economic diversification, and poverty reduction.",
+            "affected_regions": [
+              "Least Developed Countries",
+              "Small Island Developing States"
+            ]
+          },
+          {
+            "challenge": "Digital divide and lack of affordable internet access.",
+            "impact": "Exacerbates inequalities in education, business, and access to information.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Landlocked Developing Countries"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Vietnam",
+            "initiative": "Development of high-tech industrial parks and investment in digital infrastructure.",
+            "impact": "Manufacturing value added as a share of GDP increased from 16% in 2010 to 25% in 2022; over 70% of the population now has internet access.",
+            "year": "2022"
+          },
+          {
+            "country": "Rwanda",
+            "initiative": "Nationwide rollout of 4G LTE network to improve digital connectivity.",
+            "impact": "Internet penetration increased from 7% in 2012 to over 60% in 2022, boosting digital entrepreneurship and access to services.",
+            "year": "2022"
+          },
+          {
+            "country": "Germany",
+            "initiative": "Promotion of Industry 4.0 and green manufacturing technologies.",
+            "impact": "CO2 emissions per unit of manufacturing value added decreased by 30% between 2010 and 2021.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Increase investment in resilient and sustainable infrastructure, especially in least developed and landlocked countries.",
+          "Promote inclusive industrialization and support small-scale enterprises with access to finance and markets.",
+          "Accelerate digital transformation and close the digital divide through affordable internet access.",
+          "Foster innovation and research by increasing R&D spending and supporting technology transfer.",
+          "Promote adoption of clean and environmentally sound technologies in industry."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1",
+            "relationship": "Industrialization and infrastructure development are critical for poverty reduction through job creation and economic growth."
+          },
+          {
+            "related_sdg": "SDG 7",
+            "relationship": "Sustainable infrastructure supports access to affordable and clean energy."
+          },
+          {
+            "related_sdg": "SDG 8",
+            "relationship": "Industrialization drives economic growth and decent work opportunities."
+          },
+          {
+            "related_sdg": "SDG 11",
+            "relationship": "Urban infrastructure development is essential for sustainable cities and communities."
+          },
+          {
+            "related_sdg": "SDG 13",
+            "relationship": "Upgrading industries and infrastructure to be more sustainable helps mitigate climate change."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:16:51"
+    },
+    {
+      "sdg_number": 10,
+      "sdg_name": "Reduced Inequalities",
+      "data": {
+        "targets": [
+          {
+            "target_number": "10.1",
+            "description": "By 2030, progressively achieve and sustain income growth of the bottom 40% of the population at a rate higher than the national average.",
+            "key_indicators": [
+              "10.1.1: Growth rates of household expenditure or income per capita among the bottom 40% and the total population"
+            ]
+          },
+          {
+            "target_number": "10.2",
+            "description": "By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.",
+            "key_indicators": [
+              "10.2.1: Proportion of people living below 50% of median income, by age, sex and persons with disabilities"
+            ]
+          },
+          {
+            "target_number": "10.3",
+            "description": "Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action.",
+            "key_indicators": [
+              "10.3.1: Proportion of population reporting having personally felt discriminated against or harassed"
+            ]
+          },
+          {
+            "target_number": "10.4",
+            "description": "Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality.",
+            "key_indicators": [
+              "10.4.1: Labour share of GDP, comprising wages and social protection transfers"
+            ]
+          },
+          {
+            "target_number": "10.5",
+            "description": "Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations.",
+            "key_indicators": [
+              "10.5.1: Financial Soundness Indicators"
+            ]
+          },
+          {
+            "target_number": "10.6",
+            "description": "Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions.",
+            "key_indicators": [
+              "10.6.1: Proportion of members and voting rights of developing countries in international organizations"
+            ]
+          },
+          {
+            "target_number": "10.7",
+            "description": "Facilitate orderly, safe, regular and responsible migration and mobility of people, including through implementation of planned and well-managed migration policies.",
+            "key_indicators": [
+              "10.7.1: Recruitment cost borne by employee as a proportion of yearly income earned in destination country",
+              "10.7.2: Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
+            ]
+          },
+          {
+            "target_number": "10.a",
+            "description": "Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements.",
+            "key_indicators": [
+              "10.a.1: Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
+            ]
+          },
+          {
+            "target_number": "10.b",
+            "description": "Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest.",
+            "key_indicators": [
+              "10.b.1: Total resource flows for development, by recipient and donor countries and type of flow"
+            ]
+          },
+          {
+            "target_number": "10.c",
+            "description": "By 2030, reduce to less than 3% the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5%.",
+            "key_indicators": [
+              "10.c.1: Remittance costs as a proportion of the amount remitted"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 30% of targets on track",
+          "regions_on_track": [
+            "Northern Europe",
+            "Western Europe"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Latin America and the Caribbean",
+            "Southern Asia"
+          ],
+          "key_statistics": [
+            "The income of the bottom 40% of the population grew faster than the national average in only 38 of 91 countries with data (2012–2021).",
+            "The global Gini index remains high, with income inequality persisting within and between countries.",
+            "Remittance costs averaged 6.2% in 2023, above the SDG target of 3%.",
+            "Discrimination based on age, gender, ethnicity, and disability remains widespread."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Persistent income and wealth inequality within and between countries.",
+            "impact": "Limits social mobility, increases poverty, and undermines social cohesion.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Latin America and the Caribbean",
+              "Southern Asia"
+            ]
+          },
+          {
+            "challenge": "High cost of remittances for migrant workers.",
+            "impact": "Reduces the amount of money families in developing countries receive, affecting their livelihoods.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Oceania",
+              "Central Asia"
+            ]
+          },
+          {
+            "challenge": "Discrimination and exclusion based on gender, age, disability, and ethnicity.",
+            "impact": "Leads to unequal access to education, employment, and political participation.",
+            "affected_regions": [
+              "Global"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Vietnam",
+            "initiative": "Targeted poverty reduction and social protection programs, including cash transfers and inclusive education policies.",
+            "impact": "Poverty rate reduced from 58% in 1993 to below 6% in 2022, with significant narrowing of rural-urban and ethnic minority gaps.",
+            "year": "2022"
+          },
+          {
+            "country": "Sweden",
+            "initiative": "Comprehensive anti-discrimination legislation and strong social welfare policies.",
+            "impact": "High levels of social inclusion and one of the lowest income inequality rates in the OECD.",
+            "year": "2023"
+          },
+          {
+            "country": "Morocco",
+            "initiative": "National Strategy for Immigration and Asylum, providing migrants with access to health, education, and legal protection.",
+            "impact": "Regularized status for over 50,000 migrants and improved access to essential services.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Strengthen social protection systems and expand coverage to vulnerable groups.",
+          "Promote inclusive economic growth and decent work opportunities.",
+          "Reduce remittance costs and improve financial inclusion for migrants.",
+          "Enforce anti-discrimination laws and promote equal access to education and healthcare.",
+          "Enhance representation of developing countries in global decision-making institutions.",
+          "Support fiscal and wage policies that reduce income and wealth disparities."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1",
+            "relationship": "Reducing inequalities is essential for ending poverty in all its forms."
+          },
+          {
+            "related_sdg": "SDG 5",
+            "relationship": "Gender equality is a key component of reducing inequalities within and among countries."
+          },
+          {
+            "related_sdg": "SDG 8",
+            "relationship": "Inclusive economic growth and decent work help reduce income disparities."
+          },
+          {
+            "related_sdg": "SDG 16",
+            "relationship": "Peaceful and inclusive societies support the reduction of discrimination and inequalities."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:17:08"
+    },
+    {
+      "sdg_number": 11,
+      "sdg_name": "Sustainable Cities and Communities",
+      "data": {
+        "targets": [
+          {
+            "target_number": "11.1",
+            "description": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.",
+            "key_indicators": [
+              "11.1.1: Proportion of urban population living in slums, informal settlements or inadequate housing"
+            ]
+          },
+          {
+            "target_number": "11.2",
+            "description": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons.",
+            "key_indicators": [
+              "11.2.1: Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+            ]
+          },
+          {
+            "target_number": "11.3",
+            "description": "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.",
+            "key_indicators": [
+              "11.3.1: Ratio of land consumption rate to population growth rate",
+              "11.3.2: Proportion of cities with a direct participation structure of civil society in urban planning and management"
+            ]
+          },
+          {
+            "target_number": "11.4",
+            "description": "Strengthen efforts to protect and safeguard the world’s cultural and natural heritage.",
+            "key_indicators": [
+              "11.4.1: Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage"
+            ]
+          },
+          {
+            "target_number": "11.5",
+            "description": "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations.",
+            "key_indicators": [
+              "11.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+              "11.5.2: Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
+            ]
+          },
+          {
+            "target_number": "11.6",
+            "description": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management.",
+            "key_indicators": [
+              "11.6.1: Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated",
+              "11.6.2: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities"
+            ]
+          },
+          {
+            "target_number": "11.7",
+            "description": "By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities.",
+            "key_indicators": [
+              "11.7.1: Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",
+              "11.7.2: Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence"
+            ]
+          },
+          {
+            "target_number": "11.a",
+            "description": "Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning.",
+            "key_indicators": [
+              "11.a.1: Number of countries that have national urban policies or regional development plans that respond to population dynamics"
+            ]
+          },
+          {
+            "target_number": "11.b",
+            "description": "By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework, holistic disaster risk management at all levels.",
+            "key_indicators": [
+              "11.b.1: Number of countries with national and local disaster risk reduction strategies",
+              "11.b.2: Proportion of local governments that adopt and implement local disaster risk reduction strategies"
+            ]
+          },
+          {
+            "target_number": "11.c",
+            "description": "Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials.",
+            "key_indicators": [
+              "11.c.1: Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 30% of targets on track",
+          "regions_on_track": [
+            "Europe",
+            "Northern America",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Central and Southern Asia",
+            "Latin America and the Caribbean"
+          ],
+          "key_statistics": [
+            "Over 1 billion people live in slums or informal settlements as of 2022.",
+            "Only 52% of the world’s urban population has convenient access to public transport (2022).",
+            "Air pollution levels in most cities exceed WHO guidelines, with 99% of the global population breathing air that exceeds recommended limits.",
+            "Urban areas account for over 70% of global CO2 emissions.",
+            "Disaster-related economic losses in urban areas reached $253 billion in 2022."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Rapid urbanization leading to the expansion of slums and informal settlements.",
+            "impact": "Increases in inadequate housing, lack of basic services, and heightened vulnerability to health and environmental hazards.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South-Eastern Asia",
+              "Latin America"
+            ]
+          },
+          {
+            "challenge": "Insufficient investment in sustainable public transport systems.",
+            "impact": "Limited mobility for vulnerable populations, increased traffic congestion, and higher greenhouse gas emissions.",
+            "affected_regions": [
+              "Central Asia",
+              "Sub-Saharan Africa",
+              "South America"
+            ]
+          },
+          {
+            "challenge": "High levels of urban air pollution and poor waste management.",
+            "impact": "Adverse health outcomes, environmental degradation, and reduced quality of life.",
+            "affected_regions": [
+              "South Asia",
+              "East Asia",
+              "Africa"
+            ]
+          },
+          {
+            "challenge": "Inadequate disaster risk reduction and resilience planning.",
+            "impact": "Increased loss of life and economic damage from natural disasters, particularly among the urban poor.",
+            "affected_regions": [
+              "Small Island Developing States",
+              "South-East Asia",
+              "Caribbean"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Colombia",
+            "initiative": "Medellín's urban transformation through integrated public transport, social housing, and green spaces.",
+            "impact": "Reduction in homicide rates by over 80%, improved mobility for 1.5 million residents, and increased access to public spaces.",
+            "year": "2022"
+          },
+          {
+            "country": "India",
+            "initiative": "Smart Cities Mission focusing on sustainable urban infrastructure, digital services, and green mobility.",
+            "impact": "Over 100 cities implementing projects benefiting more than 100 million people with improved sanitation, transport, and e-governance.",
+            "year": "2023"
+          },
+          {
+            "country": "Denmark",
+            "initiative": "Copenhagen's commitment to carbon-neutral urban planning and cycling infrastructure.",
+            "impact": "Over 62% of city residents commute by bike, contributing to a 42% reduction in CO2 emissions since 2005.",
+            "year": "2023"
+          }
+        ],
+        "priority_actions": [
+          "Increase investment in affordable and resilient housing, especially in informal settlements.",
+          "Expand and modernize sustainable public transport systems.",
+          "Strengthen urban planning to promote green spaces and reduce urban sprawl.",
+          "Implement stricter air quality and waste management regulations.",
+          "Enhance disaster risk reduction strategies and urban resilience.",
+          "Promote inclusive participation in urban governance and planning.",
+          "Support least developed countries with financial and technical assistance for sustainable urban infrastructure."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 3",
+            "relationship": "Improved urban air quality and access to green spaces contribute to better health and well-being."
+          },
+          {
+            "related_sdg": "SDG 6",
+            "relationship": "Urban water and sanitation infrastructure is essential for clean water and sanitation."
+          },
+          {
+            "related_sdg": "SDG 7",
+            "relationship": "Energy-efficient buildings and sustainable transport reduce energy consumption."
+          },
+          {
+            "related_sdg": "SDG 13",
+            "relationship": "Urban resilience and low-carbon development are critical for climate action."
+          },
+          {
+            "related_sdg": "SDG 15",
+            "relationship": "Urban expansion impacts terrestrial ecosystems and biodiversity."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:17:34"
+    },
+    {
+      "sdg_number": 12,
+      "sdg_name": "Responsible Consumption and Production",
+      "data": {
+        "targets": [
+          {
+            "target_number": "12.1",
+            "description": "Implement the 10-Year Framework of Programmes on sustainable consumption and production, all countries taking action, with developed countries taking the lead.",
+            "key_indicators": [
+              "12.1.1 Number of countries with SCP national action plans or SCP mainstreamed as a priority or a target into national policies"
+            ]
+          },
+          {
+            "target_number": "12.2",
+            "description": "By 2030, achieve the sustainable management and efficient use of natural resources.",
+            "key_indicators": [
+              "12.2.1 Material footprint, material footprint per capita, and material footprint per GDP",
+              "12.2.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+            ]
+          },
+          {
+            "target_number": "12.3",
+            "description": "By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses.",
+            "key_indicators": [
+              "12.3.1 Global food loss index"
+            ]
+          },
+          {
+            "target_number": "12.4",
+            "description": "By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil.",
+            "key_indicators": [
+              "12.4.1 Number of parties to international multilateral environmental agreements on hazardous waste, chemicals and other wastes",
+              "12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated"
+            ]
+          },
+          {
+            "target_number": "12.5",
+            "description": "By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse.",
+            "key_indicators": [
+              "12.5.1 National recycling rate, tons of material recycled"
+            ]
+          },
+          {
+            "target_number": "12.6",
+            "description": "Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle.",
+            "key_indicators": [
+              "12.6.1 Number of companies publishing sustainability reports"
+            ]
+          },
+          {
+            "target_number": "12.7",
+            "description": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities.",
+            "key_indicators": [
+              "12.7.1 Number of countries implementing sustainable public procurement policies and action plans"
+            ]
+          },
+          {
+            "target_number": "12.8",
+            "description": "By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature.",
+            "key_indicators": [
+              "12.8.1 Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in national education policies, curricula, teacher education and student assessment"
+            ]
+          },
+          {
+            "target_number": "12.a",
+            "description": "Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production.",
+            "key_indicators": [
+              "12.a.1 Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies"
+            ]
+          },
+          {
+            "target_number": "12.b",
+            "description": "Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products.",
+            "key_indicators": [
+              "12.b.1 Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools"
+            ]
+          },
+          {
+            "target_number": "12.c",
+            "description": "Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions.",
+            "key_indicators": [
+              "12.c.1 Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 20% of targets on track",
+          "regions_on_track": [
+            "Europe",
+            "Northern America"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "South Asia",
+            "Western Asia",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "key_statistics": [
+            "Global material footprint reached 95.9 billion metric tons in 2019, up from 73.2 billion in 2010.",
+            "Food loss and waste accounts for about 8-10% of global greenhouse gas emissions.",
+            "Only 13.5% of e-waste was recycled globally in 2022.",
+            "Fossil fuel subsidies nearly doubled in 2022 to $1.3 trillion."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Rising material consumption and inefficient resource use.",
+            "impact": "Increased environmental degradation, higher greenhouse gas emissions, and depletion of natural resources.",
+            "affected_regions": [
+              "Global",
+              "Asia",
+              "Africa"
+            ]
+          },
+          {
+            "challenge": "High levels of food loss and waste across supply chains.",
+            "impact": "Loss of resources, increased food insecurity, and significant greenhouse gas emissions.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia",
+              "Latin America"
+            ]
+          },
+          {
+            "challenge": "Persistent fossil fuel subsidies.",
+            "impact": "Encourages wasteful consumption, hinders transition to renewable energy, and increases emissions.",
+            "affected_regions": [
+              "Middle East",
+              "Asia",
+              "Africa"
+            ]
+          },
+          {
+            "challenge": "Limited adoption of sustainable business practices and reporting.",
+            "impact": "Slow progress towards transparency and accountability in supply chains.",
+            "affected_regions": [
+              "Global"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Sweden",
+            "initiative": "Implementation of a national food waste reduction program, including public awareness campaigns and incentives for retailers and consumers.",
+            "impact": "Reduced food waste by 15% between 2015 and 2022.",
+            "year": "2022"
+          },
+          {
+            "country": "Rwanda",
+            "initiative": "Ban on single-use plastics and promotion of sustainable alternatives.",
+            "impact": "Significant reduction in plastic waste and improved urban cleanliness.",
+            "year": "2019"
+          },
+          {
+            "country": "Japan",
+            "initiative": "Home Appliance Recycling Law requiring manufacturers to recycle appliances and consumers to pay recycling fees.",
+            "impact": "Recycling rates for appliances exceeded 90% by 2021.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Accelerate implementation of sustainable consumption and production policies.",
+          "Scale up food loss and waste reduction initiatives.",
+          "Phase out inefficient fossil fuel subsidies.",
+          "Promote circular economy approaches and resource efficiency.",
+          "Enhance sustainability reporting and responsible business practices.",
+          "Increase investment in sustainable infrastructure and technologies.",
+          "Strengthen education and awareness on sustainable lifestyles."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 2",
+            "relationship": "Reducing food loss and waste supports Zero Hunger by improving food availability and resource efficiency."
+          },
+          {
+            "related_sdg": "SDG 7",
+            "relationship": "Phasing out fossil fuel subsidies and promoting energy efficiency supports Affordable and Clean Energy."
+          },
+          {
+            "related_sdg": "SDG 13",
+            "relationship": "Responsible consumption and production reduces greenhouse gas emissions, supporting Climate Action."
+          },
+          {
+            "related_sdg": "SDG 14",
+            "relationship": "Reducing waste and pollution protects Life Below Water."
+          },
+          {
+            "related_sdg": "SDG 15",
+            "relationship": "Sustainable resource use helps conserve terrestrial ecosystems and biodiversity."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:17:55"
+    },
+    {
+      "sdg_number": 13,
+      "sdg_name": "Climate Action",
+      "data": {
+        "targets": [
+          {
+            "target_number": "13.1",
+            "description": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries.",
+            "key_indicators": [
+              "13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+              "13.1.2: Number of countries with national and local disaster risk reduction strategies"
+            ]
+          },
+          {
+            "target_number": "13.2",
+            "description": "Integrate climate change measures into national policies, strategies and planning.",
+            "key_indicators": [
+              "13.2.1: Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, and adaptation communications",
+              "13.2.2: Total greenhouse gas emissions per year"
+            ]
+          },
+          {
+            "target_number": "13.3",
+            "description": "Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning.",
+            "key_indicators": [
+              "13.3.1: Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into curricula",
+              "13.3.2: Number of countries with climate change education and awareness programmes"
+            ]
+          },
+          {
+            "target_number": "13.a",
+            "description": "Implement the commitment undertaken by developed-country parties to the UNFCCC to a goal of mobilizing jointly $100 billion annually by 2020 to address the needs of developing countries.",
+            "key_indicators": [
+              "13.a.1: Amounts provided and mobilized in USD per year in relation to the continued existing collective mobilization goal of the $100 billion commitment"
+            ]
+          },
+          {
+            "target_number": "13.b",
+            "description": "Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States.",
+            "key_indicators": [
+              "13.b.1: Number of least developed countries and small island developing States with climate change strategies and plans"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 20% of required emissions reductions achieved",
+          "regions_on_track": [
+            "Northern Europe",
+            "New Zealand"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "South Asia",
+            "Middle East and North Africa",
+            "Latin America"
+          ],
+          "key_statistics": [
+            "Global greenhouse gas emissions reached a record high of 57.4 GtCO2e in 2022.",
+            "The world is on track for a temperature rise of 2.5°C to 2.9°C by 2100 under current policies.",
+            "Only 38% of countries have comprehensive disaster risk reduction strategies in place.",
+            "Climate finance flows to developing countries reached $83.3 billion in 2020, still below the $100 billion target."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Insufficient reduction in greenhouse gas emissions",
+            "impact": "Continued rise in global temperatures, increased frequency and severity of extreme weather events.",
+            "affected_regions": [
+              "Global"
+            ]
+          },
+          {
+            "challenge": "Inadequate climate finance for developing countries",
+            "impact": "Limited capacity for adaptation and mitigation, increased vulnerability to climate impacts.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Small Island Developing States",
+              "Least Developed Countries"
+            ]
+          },
+          {
+            "challenge": "Lack of integration of climate action into national policies",
+            "impact": "Slow progress on adaptation and mitigation, missed opportunities for sustainable development.",
+            "affected_regions": [
+              "South Asia",
+              "Latin America",
+              "Middle East and North Africa"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Denmark",
+            "initiative": "Transition to renewable energy with over 50% of electricity generated from wind and solar power.",
+            "impact": "Significant reduction in national greenhouse gas emissions; on track to achieve carbon neutrality by 2050.",
+            "year": "2022"
+          },
+          {
+            "country": "Costa Rica",
+            "initiative": "National decarbonization plan and investment in hydropower and reforestation.",
+            "impact": "Over 98% of electricity from renewable sources; increased forest cover to over 50% of land area.",
+            "year": "2023"
+          },
+          {
+            "country": "Bangladesh",
+            "initiative": "Community-based early warning systems for cyclones and floods.",
+            "impact": "Dramatic reduction in cyclone-related deaths and improved disaster preparedness.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Accelerate the transition to renewable energy sources globally",
+          "Scale up climate finance and fulfill the $100 billion annual commitment",
+          "Strengthen national adaptation plans and disaster risk reduction strategies",
+          "Integrate climate action into all sectors and policies",
+          "Enhance climate education and public awareness",
+          "Support vulnerable countries and communities in building resilience"
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 2: Zero Hunger",
+            "relationship": "Climate change impacts agricultural productivity and food security."
+          },
+          {
+            "related_sdg": "SDG 6: Clean Water and Sanitation",
+            "relationship": "Climate change affects water availability and increases the risk of droughts and floods."
+          },
+          {
+            "related_sdg": "SDG 7: Affordable and Clean Energy",
+            "relationship": "Transitioning to clean energy is essential for reducing greenhouse gas emissions."
+          },
+          {
+            "related_sdg": "SDG 11: Sustainable Cities and Communities",
+            "relationship": "Urban areas must adapt to climate risks and reduce emissions."
+          },
+          {
+            "related_sdg": "SDG 14: Life Below Water",
+            "relationship": "Climate change leads to ocean warming, acidification, and sea level rise."
+          },
+          {
+            "related_sdg": "SDG 15: Life on Land",
+            "relationship": "Climate change threatens terrestrial ecosystems and biodiversity."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:18:13"
+    },
+    {
+      "sdg_number": 14,
+      "sdg_name": "Life Below Water",
+      "data": {
+        "targets": [
+          {
+            "target_number": "14.1",
+            "description": "By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution.",
+            "key_indicators": [
+              "14.1.1: Index of coastal eutrophication and floating plastic debris density"
+            ]
+          },
+          {
+            "target_number": "14.2",
+            "description": "By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, and take action for their restoration in order to achieve healthy and productive oceans.",
+            "key_indicators": [
+              "14.2.1: Proportion of national exclusive economic zones managed using ecosystem-based approaches"
+            ]
+          },
+          {
+            "target_number": "14.3",
+            "description": "Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels.",
+            "key_indicators": [
+              "14.3.1: Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+            ]
+          },
+          {
+            "target_number": "14.4",
+            "description": "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans.",
+            "key_indicators": [
+              "14.4.1: Proportion of fish stocks within biologically sustainable levels"
+            ]
+          },
+          {
+            "target_number": "14.5",
+            "description": "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information.",
+            "key_indicators": [
+              "14.5.1: Coverage of protected areas in relation to marine areas"
+            ]
+          },
+          {
+            "target_number": "14.6",
+            "description": "By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, and eliminate subsidies that contribute to illegal, unreported and unregulated fishing.",
+            "key_indicators": [
+              "14.6.1: Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+            ]
+          },
+          {
+            "target_number": "14.7",
+            "description": "By 2030, increase the economic benefits to Small Island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism.",
+            "key_indicators": [
+              "14.7.1: Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
+            ]
+          },
+          {
+            "target_number": "14.a",
+            "description": "Increase scientific knowledge, develop research capacity and transfer marine technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries.",
+            "key_indicators": [
+              "14.a.1: Proportion of total research budget allocated to research in the field of marine technology"
+            ]
+          },
+          {
+            "target_number": "14.b",
+            "description": "Provide access for small-scale artisanal fishers to marine resources and markets.",
+            "key_indicators": [
+              "14.b.1: Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+            ]
+          },
+          {
+            "target_number": "14.c",
+            "description": "Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in UNCLOS.",
+            "key_indicators": [
+              "14.c.1: Number of countries making progress in ratifying, accepting and implementing ocean-related instruments"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 30% of targets on track",
+          "regions_on_track": [
+            "Northern Europe",
+            "Oceania (Australia and New Zealand)"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "South Asia",
+            "Southeast Asia",
+            "Small Island Developing States"
+          ],
+          "key_statistics": [
+            "Over 17 million metric tons of plastic entered the ocean in 2021, projected to double or triple by 2040.",
+            "Only 8% of marine and coastal areas are under protection as of 2023.",
+            "More than one third (over 35%) of global fish stocks are overfished.",
+            "Ocean acidity has increased by 30% since the industrial revolution.",
+            "More than 3 billion people depend on marine and coastal biodiversity for their livelihoods."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Marine pollution from plastics and land-based sources",
+            "impact": "Threatens marine life, food safety, and human health; damages coastal economies and ecosystems.",
+            "affected_regions": [
+              "Global",
+              "East Asia",
+              "South Asia",
+              "Africa",
+              "Pacific Islands"
+            ]
+          },
+          {
+            "challenge": "Overfishing and illegal, unreported and unregulated (IUU) fishing",
+            "impact": "Depletes fish stocks, undermines food security, and threatens livelihoods of coastal communities.",
+            "affected_regions": [
+              "West Africa",
+              "Southeast Asia",
+              "Latin America"
+            ]
+          },
+          {
+            "challenge": "Ocean acidification and climate change",
+            "impact": "Reduces biodiversity, affects coral reefs, and disrupts marine food webs.",
+            "affected_regions": [
+              "Small Island Developing States",
+              "Coral Triangle",
+              "Caribbean"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Norway",
+            "initiative": "Implementation of a comprehensive fisheries management system based on scientific quotas and strict enforcement.",
+            "impact": "Fish stocks have remained at sustainable levels, supporting both economic growth and ecosystem health.",
+            "year": "2022"
+          },
+          {
+            "country": "Chile",
+            "initiative": "Establishment of large-scale marine protected areas, including the Nazca-Desventuradas Marine Park.",
+            "impact": "Over 40% of Chile's marine territory is now protected, preserving biodiversity and supporting sustainable fisheries.",
+            "year": "2021"
+          },
+          {
+            "country": "Indonesia",
+            "initiative": "National Action Plan on Marine Plastic Debris aiming to reduce plastic waste by 70% by 2025.",
+            "impact": "Significant reductions in plastic leakage into the ocean, with improved waste management infrastructure.",
+            "year": "2023"
+          }
+        ],
+        "priority_actions": [
+          "Strengthen enforcement of regulations to combat illegal, unreported and unregulated fishing.",
+          "Expand and effectively manage marine protected areas to cover at least 10% of marine and coastal areas.",
+          "Reduce marine pollution, especially plastics, through improved waste management and reduction of single-use plastics.",
+          "Promote sustainable fisheries and aquaculture practices.",
+          "Enhance scientific research and data collection on ocean health.",
+          "Increase international cooperation and capacity-building for developing countries."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 2: Zero Hunger",
+            "relationship": "Sustainable fisheries support food security and nutrition for billions of people."
+          },
+          {
+            "related_sdg": "SDG 13: Climate Action",
+            "relationship": "Oceans play a critical role in climate regulation and are impacted by climate change."
+          },
+          {
+            "related_sdg": "SDG 12: Responsible Consumption and Production",
+            "relationship": "Reducing marine pollution requires sustainable production and consumption patterns."
+          },
+          {
+            "related_sdg": "SDG 1: No Poverty",
+            "relationship": "Healthy oceans support livelihoods and economic growth, particularly for coastal communities."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:18:29"
+    },
+    {
+      "sdg_number": 15,
+      "sdg_name": "Life on Land",
+      "data": {
+        "targets": [
+          {
+            "target_number": "15.1",
+            "description": "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands.",
+            "key_indicators": [
+              "15.1.1: Forest area as a proportion of total land area",
+              "15.1.2: Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas"
+            ]
+          },
+          {
+            "target_number": "15.2",
+            "description": "By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally.",
+            "key_indicators": [
+              "15.2.1: Progress towards sustainable forest management"
+            ]
+          },
+          {
+            "target_number": "15.3",
+            "description": "By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world.",
+            "key_indicators": [
+              "15.3.1: Proportion of land that is degraded over total land area"
+            ]
+          },
+          {
+            "target_number": "15.4",
+            "description": "By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development.",
+            "key_indicators": [
+              "15.4.1: Coverage by protected areas of important sites for mountain biodiversity",
+              "15.4.2: Mountain Green Cover Index"
+            ]
+          },
+          {
+            "target_number": "15.5",
+            "description": "Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species.",
+            "key_indicators": [
+              "15.5.1: Red List Index"
+            ]
+          },
+          {
+            "target_number": "15.6",
+            "description": "Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed.",
+            "key_indicators": [
+              "15.6.1: Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+            ]
+          },
+          {
+            "target_number": "15.7",
+            "description": "Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products.",
+            "key_indicators": [
+              "15.7.1: Proportion of traded wildlife that was poached or illicitly trafficked"
+            ]
+          },
+          {
+            "target_number": "15.8",
+            "description": "By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species.",
+            "key_indicators": [
+              "15.8.1: Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+            ]
+          },
+          {
+            "target_number": "15.9",
+            "description": "By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts.",
+            "key_indicators": [
+              "15.9.1: Progress towards national targets established in accordance with Aichi Biodiversity Target 2"
+            ]
+          },
+          {
+            "target_number": "15.a",
+            "description": "Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems.",
+            "key_indicators": [
+              "15.a.1: Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems"
+            ]
+          },
+          {
+            "target_number": "15.b",
+            "description": "Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation.",
+            "key_indicators": [
+              "15.b.1: Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems"
+            ]
+          },
+          {
+            "target_number": "15.c",
+            "description": "Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities.",
+            "key_indicators": [
+              "15.c.1: Proportion of traded wildlife that was poached or illicitly trafficked"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Approximately 30% of targets on track",
+          "regions_on_track": [
+            "Europe",
+            "Northern America",
+            "Oceania (Australia and New Zealand)"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Latin America and the Caribbean",
+            "South-East Asia"
+          ],
+          "key_statistics": [
+            "Between 2015 and 2022, global forest area declined by 100 million hectares.",
+            "One million animal and plant species are threatened with extinction.",
+            "Land degradation affects nearly 3.2 billion people worldwide.",
+            "Only 16% of terrestrial and 8% of freshwater key biodiversity areas are fully protected."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Deforestation and forest degradation due to agricultural expansion, logging, and infrastructure development.",
+            "impact": "Loss of biodiversity, disruption of ecosystem services, and increased greenhouse gas emissions.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South America",
+              "South-East Asia"
+            ]
+          },
+          {
+            "challenge": "Illegal wildlife trade and poaching.",
+            "impact": "Decline in populations of threatened species and destabilization of ecosystems.",
+            "affected_regions": [
+              "Central Africa",
+              "South-East Asia"
+            ]
+          },
+          {
+            "challenge": "Spread of invasive alien species.",
+            "impact": "Displacement of native species, alteration of habitats, and economic losses.",
+            "affected_regions": [
+              "Pacific Islands",
+              "Caribbean",
+              "Europe"
+            ]
+          },
+          {
+            "challenge": "Insufficient financial resources and weak governance frameworks.",
+            "impact": "Limited capacity to implement conservation measures and enforce regulations.",
+            "affected_regions": [
+              "Least Developed Countries",
+              "Small Island Developing States"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Costa Rica",
+            "initiative": "Implementation of Payment for Ecosystem Services (PES) programs to incentivize forest conservation and restoration.",
+            "impact": "Forest cover increased from 21% in the 1980s to over 53% by 2022.",
+            "year": "2022"
+          },
+          {
+            "country": "China",
+            "initiative": "Large-scale reforestation and afforestation projects under the Grain for Green Program.",
+            "impact": "Restoration of over 30 million hectares of degraded land and increased forest cover to 23.04% by 2022.",
+            "year": "2022"
+          },
+          {
+            "country": "Rwanda",
+            "initiative": "National efforts to restore degraded land through agroforestry and community engagement.",
+            "impact": "Restoration of over 700,000 hectares and improved livelihoods for rural communities.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Strengthen and enforce legal frameworks to prevent deforestation and land degradation.",
+          "Increase investment in ecosystem restoration and sustainable land management.",
+          "Enhance support for local and indigenous communities in conservation efforts.",
+          "Expand and effectively manage protected areas for terrestrial and freshwater biodiversity.",
+          "Combat illegal wildlife trade through international cooperation and capacity building.",
+          "Integrate biodiversity values into national planning and economic decision-making."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 2: Zero Hunger",
+            "relationship": "Sustainable land management supports food security and resilient agricultural systems."
+          },
+          {
+            "related_sdg": "SDG 6: Clean Water and Sanitation",
+            "relationship": "Healthy terrestrial ecosystems regulate water cycles and maintain water quality."
+          },
+          {
+            "related_sdg": "SDG 13: Climate Action",
+            "relationship": "Forests and land ecosystems are critical carbon sinks, helping mitigate climate change."
+          },
+          {
+            "related_sdg": "SDG 14: Life Below Water",
+            "relationship": "Land-based activities impact coastal and marine ecosystems through runoff and pollution."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:18:50"
+    },
+    {
+      "sdg_number": 16,
+      "sdg_name": "Peace, Justice and Strong Institutions",
+      "data": {
+        "targets": [
+          {
+            "target_number": "16.1",
+            "description": "Significantly reduce all forms of violence and related death rates everywhere",
+            "key_indicators": [
+              "16.1.1: Number of victims of intentional homicide per 100,000 population, by sex and age",
+              "16.1.4: Proportion of population that feel safe walking alone around the area they live"
+            ]
+          },
+          {
+            "target_number": "16.2",
+            "description": "End abuse, exploitation, trafficking and all forms of violence against and torture of children",
+            "key_indicators": [
+              "16.2.1: Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
+              "16.2.2: Number of victims of human trafficking per 100,000 population"
+            ]
+          },
+          {
+            "target_number": "16.3",
+            "description": "Promote the rule of law at the national and international levels and ensure equal access to justice for all",
+            "key_indicators": [
+              "16.3.1: Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
+              "16.3.2: Unsentenced detainees as a proportion of overall prison population"
+            ]
+          },
+          {
+            "target_number": "16.4",
+            "description": "By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime",
+            "key_indicators": [
+              "16.4.1: Total value of inward and outward illicit financial flows (in current US dollars)",
+              "16.4.2: Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority"
+            ]
+          },
+          {
+            "target_number": "16.5",
+            "description": "Substantially reduce corruption and bribery in all their forms",
+            "key_indicators": [
+              "16.5.1: Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe, during the previous 12 months",
+              "16.5.2: Proportion of businesses that had at least one contact with a public official and that paid a bribe or were asked for a bribe during the previous 12 months"
+            ]
+          },
+          {
+            "target_number": "16.6",
+            "description": "Develop effective, accountable and transparent institutions at all levels",
+            "key_indicators": [
+              "16.6.1: Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
+              "16.6.2: Proportion of population satisfied with their last experience of public services"
+            ]
+          },
+          {
+            "target_number": "16.7",
+            "description": "Ensure responsive, inclusive, participatory and representative decision-making at all levels",
+            "key_indicators": [
+              "16.7.1: Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions compared to national distributions",
+              "16.7.2: Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+            ]
+          },
+          {
+            "target_number": "16.8",
+            "description": "Broaden and strengthen the participation of developing countries in the institutions of global governance",
+            "key_indicators": [
+              "16.8.1: Proportion of members and voting rights of developing countries in international organizations"
+            ]
+          },
+          {
+            "target_number": "16.9",
+            "description": "By 2030, provide legal identity for all, including birth registration",
+            "key_indicators": [
+              "16.9.1: Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+            ]
+          },
+          {
+            "target_number": "16.10",
+            "description": "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements",
+            "key_indicators": [
+              "16.10.1: Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates",
+              "16.10.2: Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+            ]
+          },
+          {
+            "target_number": "16.a",
+            "description": "Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime",
+            "key_indicators": [
+              "16.a.1: Existence of independent national human rights institutions in compliance with the Paris Principles"
+            ]
+          },
+          {
+            "target_number": "16.b",
+            "description": "Promote and enforce non-discriminatory laws and policies for sustainable development",
+            "key_indicators": [
+              "16.b.1: Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 20% of targets on track",
+          "regions_on_track": [
+            "Northern and Western Europe",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Latin America and the Caribbean",
+            "South Asia",
+            "Middle East and North Africa"
+          ],
+          "key_statistics": [
+            "In 2022, the global homicide rate was 5.8 per 100,000 population, with the highest rates in Latin America and the Caribbean and Sub-Saharan Africa.",
+            "One in six children globally experienced some form of violence in the past year.",
+            "Only 73% of children under age 5 worldwide had their births registered in 2022.",
+            "Over 80 million people were forcibly displaced by conflict and violence as of 2023.",
+            "Corruption remains widespread, with 1 in 4 people worldwide reporting having paid a bribe in the previous year."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Rising violent conflict and insecurity",
+            "impact": "Undermines development, increases displacement, and causes loss of life and livelihoods.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Middle East and North Africa",
+              "Eastern Europe"
+            ]
+          },
+          {
+            "challenge": "Prevalence of corruption and weak institutions",
+            "impact": "Erodes trust in government, limits access to justice, and hampers economic growth.",
+            "affected_regions": [
+              "Latin America and the Caribbean",
+              "South Asia",
+              "Sub-Saharan Africa"
+            ]
+          },
+          {
+            "challenge": "Limited access to justice and legal identity",
+            "impact": "Marginalizes vulnerable populations, especially women and children, and restricts access to services and rights.",
+            "affected_regions": [
+              "South Asia",
+              "Sub-Saharan Africa"
+            ]
+          },
+          {
+            "challenge": "Threats to fundamental freedoms and safety of journalists",
+            "impact": "Restricts civic space, limits freedom of expression, and endangers human rights defenders.",
+            "affected_regions": [
+              "Eastern Europe",
+              "Asia",
+              "Middle East and North Africa"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Tunisia",
+            "initiative": "Establishment of an independent anti-corruption authority and implementation of open government reforms.",
+            "impact": "Improved Transparency International Corruption Perceptions Index score by 8 points between 2012 and 2022.",
+            "year": "2022"
+          },
+          {
+            "country": "Sierra Leone",
+            "initiative": "Nationwide campaign to increase birth registration and legal identity for children.",
+            "impact": "Birth registration coverage increased from 76% in 2017 to 92% in 2022.",
+            "year": "2022"
+          },
+          {
+            "country": "Georgia",
+            "initiative": "Judicial reforms to enhance independence and accountability of the judiciary.",
+            "impact": "Increased public trust in the judiciary from 23% in 2013 to 45% in 2021.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Strengthen the rule of law and ensure equal access to justice for all",
+          "Increase investment in effective, accountable and transparent institutions",
+          "Enhance protection of fundamental freedoms and civic space",
+          "Accelerate efforts to end violence, especially against children and vulnerable groups",
+          "Combat corruption and illicit financial flows",
+          "Promote legal identity and birth registration for all",
+          "Support inclusive and participatory decision-making at all levels"
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1",
+            "relationship": "Peaceful and inclusive societies are essential for poverty eradication."
+          },
+          {
+            "related_sdg": "SDG 4",
+            "relationship": "Access to justice and legal identity support inclusive and equitable quality education."
+          },
+          {
+            "related_sdg": "SDG 5",
+            "relationship": "Strong institutions are necessary to protect women and girls from violence and discrimination."
+          },
+          {
+            "related_sdg": "SDG 10",
+            "relationship": "Reducing inequality requires fair and inclusive institutions."
+          },
+          {
+            "related_sdg": "SDG 17",
+            "relationship": "Global partnerships and strong institutions are mutually reinforcing for sustainable development."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:19:07"
+    },
+    {
+      "sdg_number": 17,
+      "sdg_name": "Partnerships for the Goals",
+      "data": {
+        "targets": [
+          {
+            "target_number": "17.1",
+            "description": "Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection.",
+            "key_indicators": [
+              "17.1.1 Total government revenue as a proportion of GDP, by source",
+              "17.1.2 Proportion of domestic budget funded by domestic taxes"
+            ]
+          },
+          {
+            "target_number": "17.2",
+            "description": "Developed countries to implement fully their official development assistance commitments.",
+            "key_indicators": [
+              "17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the OECD Development Assistance Committee donors’ gross national income"
+            ]
+          },
+          {
+            "target_number": "17.3",
+            "description": "Mobilize additional financial resources for developing countries from multiple sources.",
+            "key_indicators": [
+              "17.3.1 Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget",
+              "17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP"
+            ]
+          },
+          {
+            "target_number": "17.4",
+            "description": "Assist developing countries in attaining long-term debt sustainability.",
+            "key_indicators": [
+              "17.4.1 Debt service as a proportion of exports of goods and services"
+            ]
+          },
+          {
+            "target_number": "17.5",
+            "description": "Adopt and implement investment promotion regimes for least developed countries.",
+            "key_indicators": [
+              "17.5.1 Number of countries that adopt and implement investment promotion regimes for least developed countries"
+            ]
+          },
+          {
+            "target_number": "17.6",
+            "description": "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation.",
+            "key_indicators": [
+              "17.6.1 Number of science and/or technology cooperation agreements and programmes between countries"
+            ]
+          },
+          {
+            "target_number": "17.7",
+            "description": "Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries.",
+            "key_indicators": [
+              "17.7.1 Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+            ]
+          },
+          {
+            "target_number": "17.8",
+            "description": "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries.",
+            "key_indicators": [
+              "17.8.1 Proportion of individuals using the Internet"
+            ]
+          },
+          {
+            "target_number": "17.9",
+            "description": "Enhance international support for implementing effective and targeted capacity-building in developing countries.",
+            "key_indicators": [
+              "17.9.1 Dollar value of financial and technical assistance committed to developing countries"
+            ]
+          },
+          {
+            "target_number": "17.10",
+            "description": "Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the WTO.",
+            "key_indicators": [
+              "17.10.1 Worldwide weighted tariff-average"
+            ]
+          },
+          {
+            "target_number": "17.11",
+            "description": "Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020.",
+            "key_indicators": [
+              "17.11.1 Developing countries’ and least developed countries’ share of global exports"
+            ]
+          },
+          {
+            "target_number": "17.12",
+            "description": "Realize timely implementation of duty-free and quota-free market access for least developed countries.",
+            "key_indicators": [
+              "17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States"
+            ]
+          },
+          {
+            "target_number": "17.13",
+            "description": "Enhance global macroeconomic stability, including through policy coordination and policy coherence.",
+            "key_indicators": [
+              "17.13.1 Macroeconomic Dashboard"
+            ]
+          },
+          {
+            "target_number": "17.14",
+            "description": "Enhance policy coherence for sustainable development.",
+            "key_indicators": [
+              "17.14.1 Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
+            ]
+          },
+          {
+            "target_number": "17.15",
+            "description": "Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development.",
+            "key_indicators": [
+              "17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+            ]
+          },
+          {
+            "target_number": "17.16",
+            "description": "Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships.",
+            "key_indicators": [
+              "17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks"
+            ]
+          },
+          {
+            "target_number": "17.17",
+            "description": "Encourage and promote effective public, public-private and civil society partnerships.",
+            "key_indicators": [
+              "17.17.1 Amount of United States dollars committed to public-private and civil society partnerships"
+            ]
+          },
+          {
+            "target_number": "17.18",
+            "description": "Enhance capacity-building support to developing countries to increase the availability of high-quality, timely and reliable data.",
+            "key_indicators": [
+              "17.18.1 Proportion of sustainable development indicators produced at the national level",
+              "17.18.2 Number of countries with a national statistical plan"
+            ]
+          },
+          {
+            "target_number": "17.19",
+            "description": "Build on existing initiatives to develop measurements of progress on sustainable development.",
+            "key_indicators": [
+              "17.19.1 Dollar value of all resources made available to strengthen statistical capacity",
+              "17.19.2 Proportion of countries that have conducted at least one population and housing census in the last 10 years"
+            ]
+          }
+        ],
+        "progress": {
+          "overall_status": "Significant challenges",
+          "global_progress_percentage": "Less than 50% of targets on track",
+          "regions_on_track": [
+            "Europe",
+            "Northern America"
+          ],
+          "regions_lagging": [
+            "Sub-Saharan Africa",
+            "Latin America and the Caribbean",
+            "Oceania (excluding Australia and New Zealand)"
+          ],
+          "key_statistics": [
+            "Official development assistance (ODA) fell by 0.7% in 2022 compared to 2021, reaching $204 billion.",
+            "Least developed countries received only 0.33% of donor GNI as ODA in 2022, below the 0.7% target.",
+            "Global FDI flows decreased by 12% in 2022, with developing countries most affected.",
+            "Remittances to low- and middle-income countries reached $626 billion in 2022, a 5% increase from 2021.",
+            "Only 56% of countries have national statistical plans for SDG monitoring."
+          ]
+        },
+        "challenges": [
+          {
+            "challenge": "Declining official development assistance and limited financial flows to developing countries.",
+            "impact": "Restricts the ability of developing countries to finance essential services and invest in sustainable development.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Least Developed Countries",
+              "Small Island Developing States"
+            ]
+          },
+          {
+            "challenge": "Insufficient data and statistical capacity for SDG monitoring.",
+            "impact": "Hampers evidence-based policymaking and tracking of SDG progress.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "South Asia",
+              "Latin America"
+            ]
+          },
+          {
+            "challenge": "Limited access to technology and innovation for developing countries.",
+            "impact": "Slows progress on multiple SDGs and widens the digital divide.",
+            "affected_regions": [
+              "Sub-Saharan Africa",
+              "Least Developed Countries"
+            ]
+          }
+        ],
+        "success_stories": [
+          {
+            "country": "Bangladesh",
+            "initiative": "The a2i (Access to Information) Programme, a government-led digital transformation initiative, expanded digital services and e-governance through multi-stakeholder partnerships.",
+            "impact": "Over 100 million citizens accessed digital services, improving efficiency and transparency in public service delivery.",
+            "year": "2022"
+          },
+          {
+            "country": "Rwanda",
+            "initiative": "Smart Africa Alliance, a partnership of African countries and private sector to accelerate sustainable socio-economic development through ICT.",
+            "impact": "Increased internet penetration from 26% in 2017 to over 60% in 2022, fostering innovation and entrepreneurship.",
+            "year": "2022"
+          },
+          {
+            "country": "Norway",
+            "initiative": "Norad’s support for capacity-building in national statistical systems in Sub-Saharan Africa.",
+            "impact": "Improved data quality and availability for SDG monitoring in 10 African countries.",
+            "year": "2021"
+          }
+        ],
+        "priority_actions": [
+          "Increase official development assistance and fulfill international commitments to developing countries.",
+          "Strengthen national statistical systems and data collection for SDG monitoring.",
+          "Promote technology transfer and innovation partnerships for sustainable development.",
+          "Enhance multi-stakeholder and public-private partnerships at all levels.",
+          "Support debt sustainability and financial resource mobilization for vulnerable countries."
+        ],
+        "interconnections": [
+          {
+            "related_sdg": "SDG 1",
+            "relationship": "Partnerships mobilize resources and expertise needed to eradicate poverty."
+          },
+          {
+            "related_sdg": "SDG 3",
+            "relationship": "Global health initiatives rely on international cooperation and funding partnerships."
+          },
+          {
+            "related_sdg": "SDG 9",
+            "relationship": "Technology transfer and innovation partnerships are essential for building resilient infrastructure."
+          },
+          {
+            "related_sdg": "SDG 13",
+            "relationship": "Climate action requires coordinated global partnerships and finance."
+          },
+          {
+            "related_sdg": "SDG 16",
+            "relationship": "Strong institutions and policy coherence are supported by effective partnerships."
+          }
+        ]
+      },
+      "timestamp": "2025-07-12 12:19:36"
+    }
+  ]
+}
